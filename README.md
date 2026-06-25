@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-with-ash/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-with-ash/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -67,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
