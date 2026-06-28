@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
