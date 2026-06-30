@@ -67,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-with-ash/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Code-with-ash/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Code-with-ash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Code-with-ash/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Code-with-ash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Code-with-ash/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Code-with-ash/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
