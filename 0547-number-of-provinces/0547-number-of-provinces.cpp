@@ -1,37 +1,31 @@
 class Solution {
 private:
-    vector<int> parent, rank_;
-
-    int find(int x) {
-        if (parent[x] != x)
-            parent[x] = find(parent[x]);  // path compression
-        return parent[x];
-    }
-
-    void unite(int x, int y) {
-        int px = find(x), py = find(y);
-        if (px == py) return;
-        if (rank_[px] < rank_[py]) swap(px, py);
-        parent[py] = px;
-        if (rank_[px] == rank_[py]) rank_[px]++;
+    void dfs(int node, vector<vector<int>>& adj, vector<int>& visited) {
+        visited[node] = 1;
+        for (int i = 0; i < adj[node].size(); i++) {
+            if (visited[adj[node][i]] != 1)
+                dfs(adj[node][i], adj, visited);
+        }
     }
 
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
-        parent.resize(n);
-        rank_.resize(n, 0);
-        for (int i = 0; i < n; i++) parent[i] = i;
+        vector<vector<int>> adj(n + 1);
 
         for (int i = 0; i < n; i++)
             for (int j = 0; j < n; j++)
-                if (isConnected[i][j] == 1)
-                    unite(i, j);
+                if (isConnected[i][j] == 1 && i != j)
+                    adj[i].push_back(j);
 
-        int provinces = 0;
-        for (int i = 0; i < n; i++)
-            if (find(i) == i) provinces++;
-
-        return provinces;
+        vector<int> visited(n + 1, 0);
+        int counter = 0;
+        for (int i = 0; i < n; i++) {
+            if (visited[i] != 1) {
+                counter++;
+                dfs(i, adj, visited);
+            }
+        }
+        return counter;
     }
 };
