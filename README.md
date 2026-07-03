@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-with-ash/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0207-course-schedule](https://github.com/Code-with-ash/DSA/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Code-with-ash/DSA/tree/master/0547-number-of-provinces) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Code-with-ash/DSA/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Code-with-ash/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Code-with-ash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -134,5 +136,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Code-with-ash/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Code-with-ash/DSA/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Code-with-ash/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
