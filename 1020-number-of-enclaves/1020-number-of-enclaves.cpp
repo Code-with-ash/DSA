@@ -1,8 +1,8 @@
 class Solution {
+       vector<int> delrow = {-1 , 0 , 1 ,0};
+        vector<int> delcol = {0 , 1 , 0 ,-1};
     void dfs(int row , int col , vector<vector<int>>& visited , vector<vector<int>>& grid){
         visited[row][col]=1;
-        vector<int> delrow = {-1 , 0 , 1 ,0};
-        vector<int> delcol = {0 , 1 , 0 ,-1};
         for(int i = 0 ; i<4 ; i++){
             int nr = row + delrow[i];
             int nc = col + delcol[i];
