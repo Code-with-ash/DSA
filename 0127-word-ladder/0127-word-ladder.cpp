@@ -5,6 +5,7 @@ public:
         queue<pair<string, int>> q;
         q.emplace(beginWord, 1);
         unordered_set<string> st(wordList.begin(), wordList.end());
+        st.erase(beginWord);
 
         while (!q.empty()) {
             string word = q.front().first;
