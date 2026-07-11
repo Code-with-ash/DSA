@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
+    int findCheapestPrice(int n, vector<vector<int>>& flights,
+                          int src, int dst, int k) {
 
         vector<vector<pair<int,int>>> adj(n);
 
@@ -8,40 +9,30 @@ public:
             adj[it[0]].push_back({it[1], it[2]});
         }
 
-        // dist[node][stops] = minimum cost to reach node using 'stops' edges
-        vector<vector<int>> dist(n, vector<int>(k + 2, INT_MAX));
+        vector<int> dist(n, INT_MAX);
+        dist[src] = 0;
 
-        priority_queue<
-            tuple<int,int,int>,
-            vector<tuple<int,int,int>>,
-            greater<tuple<int,int,int>>
-        > pq;
+        queue<pair<int,pair<int,int>>> q;
+        q.push({0, {src, 0}});   // {stops, {node, cost}}
 
-        dist[src][0] = 0;
-        pq.push({0, src, 0});   // {cost, node, stops}
+        while (!q.empty()) {
 
-        while (!pq.empty()) {
+            auto [stops, temp] = q.front();
+            auto [node, cost] = temp;
+            q.pop();
 
-            auto [cost, node, stops] = pq.top();
-            pq.pop();
-
-            if (node == dst)
-                return cost;
-
-            if (stops == k + 1)
+            if (stops > k)
                 continue;
 
             for (auto &[next, wt] : adj[node]) {
 
-                int newCost = cost + wt;
-
-                if (newCost < dist[next][stops + 1]) {
-                    dist[next][stops + 1] = newCost;
-                    pq.push({newCost, next, stops + 1});
+                if (cost + wt < dist[next]) {
+                    dist[next] = cost + wt;
+                    q.push({stops + 1, {next, cost + wt}});
                 }
             }
         }
 
-        return -1;
+        return dist[dst] == INT_MAX ? -1 : dist[dst];
     }
 };
