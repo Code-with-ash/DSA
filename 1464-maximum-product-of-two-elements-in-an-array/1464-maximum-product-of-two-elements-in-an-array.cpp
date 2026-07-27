@@ -3,10 +3,18 @@ public:
     int maxProduct(vector<int>& nums) {
         int n = nums.size();
         int product = 1;
-        sort(nums.begin() , nums.end());
-        int lastnum = nums[n-1];
-        int lastsecondnum = nums[n-2];
-        product = (lastnum-1 ) * (lastsecondnum-1);
-        return product ;
+        // we just need a largest element and second largest element 
+        int largestnum = INT_MIN ;
+        int secondlargestnum = INT_MIN;
+        for(int i = 0 ; i < n ; i++){
+            if(nums[i]>largestnum){
+                secondlargestnum = largestnum;
+                largestnum = nums[i];
+            }
+            else if(nums[i]>secondlargestnum){
+                secondlargestnum = nums[i];
+            }
+        }
+        return (largestnum-1) * (secondlargestnum-1);
     }
 };
