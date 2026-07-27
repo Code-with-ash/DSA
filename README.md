@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Code-with-ash/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-with-ash/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Code-with-ash/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Code-with-ash/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Code-with-ash/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-with-ash/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Code-with-ash/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Code-with-ash/DSA/tree/master/0148-sort-list) |
 | [0721-accounts-merge](https://github.com/Code-with-ash/DSA/tree/master/0721-accounts-merge) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-with-ash/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Biconnected Component
 |  |
 | ------- |
