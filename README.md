@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Code-with-ash/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Code-with-ash/DSA/tree/master/0200-number-of-islands) |
+| [0435-non-overlapping-intervals](https://github.com/Code-with-ash/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Code-with-ash/DSA/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Code-with-ash/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Code-with-ash/DSA/tree/master/0733-flood-fill) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Code-with-ash/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Code-with-ash/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Code-with-ash/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Code-with-ash/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Code-with-ash/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Code-with-ash/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Code-with-ash/DSA/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/Code-with-ash/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/Code-with-ash/DSA/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-with-ash/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Biconnected Component
@@ -304,5 +307,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Code-with-ash/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Code-with-ash/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Code-with-ash/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/Code-with-ash/DSA/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
