@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Code-with-ash/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Code-with-ash/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Code-with-ash/DSA/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Code-with-ash/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Code-with-ash/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Code-with-ash/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Code-with-ash/DSA/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Code-with-ash/DSA/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Code-with-ash/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Code-with-ash/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/Code-with-ash/DSA/tree/master/0860-lemonade-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Code-with-ash/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
