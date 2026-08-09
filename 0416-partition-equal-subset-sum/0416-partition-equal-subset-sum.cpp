@@ -16,16 +16,12 @@ class Solution {
     //         return dp[index][target] = take | nottake;
 public:
     bool canPartition(vector<int>& nums) {
-
         int n = nums.size();
-
         int sum = 0;
         for (int x : nums)
             sum += x;
-
         if (sum % 2)
             return false;
-
         int target = sum / 2;
 
         vector<vector<bool>> dp(n, vector<bool>(target + 1, false));
@@ -35,7 +31,6 @@ public:
 
         if (nums[0] <= target)
             dp[0][nums[0]] = true;
-
         for (int index = 1; index < n; index++) {
 
             for (int j = 1; j <= target; j++) {
@@ -45,7 +40,7 @@ public:
                 bool take = false;
                 if (j >= nums[index])
                     take = dp[index - 1][j - nums[index]];
-
+                    
                 dp[index][j] = take || nottake;
             }
         }
