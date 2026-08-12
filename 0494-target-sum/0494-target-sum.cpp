@@ -18,8 +18,8 @@ public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int totalSum = accumulate(nums.begin(), nums.end(), 0);
         if(abs(target) > totalSum) return 0;
-        if((totalSum + target) % 2 != 0) return 0;
-        int P = (totalSum + target) / 2;
+        if((totalSum - target) % 2 != 0) return 0;
+        int P = (totalSum - target) / 2;
         vector<vector<int>> dp(nums.size() , vector<int>(P+1 , -1));
         return answer(nums.size()-1, P, nums , dp);
     }
