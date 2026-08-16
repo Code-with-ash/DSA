@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Code-with-ash/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Code-with-ash/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Code-with-ash/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Code-with-ash/DSA/tree/master/0127-word-ladder) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Code-with-ash/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Code-with-ash/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Code-with-ash/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Code-with-ash/DSA/tree/master/0062-unique-paths) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Code-with-ash/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Code-with-ash/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Code-with-ash/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Code-with-ash/DSA/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Code-with-ash/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Code-with-ash/DSA/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Code-with-ash/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Code-with-ash/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Code-with-ash/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Code-with-ash/DSA/tree/master/0435-non-overlapping-intervals) |
