@@ -12,7 +12,7 @@ private:
                 i++;
             }
         }
-        if(i == a.size() && j == b.size())return true;
+        if(i == a.size() && j == b.size())return true; // both on end 
         return false ;
     }
 static bool comp(string& a , string& b){
