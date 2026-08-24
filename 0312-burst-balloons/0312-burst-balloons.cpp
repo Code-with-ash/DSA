@@ -23,19 +23,13 @@ public:
         int n = nums.size() - 2;
 
         for (int i = n; i >= 1; i--) {
-
             for (int j = i; j <= n; j++) {
-
                 int maxi = 0;
-
                 for (int ind = i; ind <= j; ind++) {
-
                     int cost = nums[i - 1] * nums[ind] * nums[j + 1] +
                                dp[i][ind - 1] + dp[ind + 1][j];
-
                     maxi = max(maxi, cost);
                 }
-
                 dp[i][j] = maxi;
             }
         }
