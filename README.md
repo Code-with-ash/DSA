@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Code-with-ash/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Code-with-ash/DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Code-with-ash/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Code-with-ash/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Code-with-ash/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Code-with-ash/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Code-with-ash/DSA/tree/master/0312-burst-balloons) |
@@ -469,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Code-with-ash/DSA/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Code-with-ash/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
