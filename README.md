@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Code-with-ash/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Code-with-ash/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Code-with-ash/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Code-with-ash/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Code-with-ash/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/Code-with-ash/DSA/tree/master/1048-longest-string-chain) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Code-with-ash/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Code-with-ash/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Code-with-ash/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Union-Find
 |  |
 | ------- |
