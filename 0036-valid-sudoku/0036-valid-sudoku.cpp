@@ -1,7 +1,7 @@
 class Solution {
     private :
     bool f(int i , int j ,vector<vector<char>>& board){
-        unordered_set<int> st ;
+        unordered_set<char> st ;
         for(int row = i ; row < i + 3 ; row ++){
             for(int col = j ; col < j + 3 ; col++){
                 if(board[row][col]=='.') continue ;
@@ -9,12 +9,11 @@ class Solution {
                 st.insert(board[row][col]);
             }
         }
-        st.clear();
         return true ;
     }
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        unordered_set<int> set ;
+        unordered_set<char> set ;
         for(int i = 0 ; i < 9 ; i++){
             for(int j = 0 ; j < 9 ; j++){
                 if(board[i][j]=='.') continue ;
