@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Code-with-ash/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Code-with-ash/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Code-with-ash/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Code-with-ash/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Code-with-ash/DSA/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Code-with-ash/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Code-with-ash/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Code-with-ash/DSA/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Code-with-ash/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Code-with-ash/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Code-with-ash/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Code-with-ash/DSA/tree/master/0148-sort-list) |
