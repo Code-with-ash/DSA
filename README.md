@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Code-with-ash/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Code-with-ash/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Code-with-ash/DSA/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Code-with-ash/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Code-with-ash/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Code-with-ash/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Code-with-ash/DSA/tree/master/0200-number-of-islands) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Code-with-ash/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/Code-with-ash/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Code-with-ash/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Code-with-ash/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Code-with-ash/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-with-ash/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Code-with-ash/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Code-with-ash/DSA/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Code-with-ash/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Code-with-ash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
