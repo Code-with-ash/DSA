@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Code-with-ash/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Code-with-ash/DSA/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Code-with-ash/DSA/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Code-with-ash/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Code-with-ash/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Code-with-ash/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Code-with-ash/DSA/tree/master/0063-unique-paths-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Code-with-ash/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Code-with-ash/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Code-with-ash/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Code-with-ash/DSA/tree/master/0127-word-ladder) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Code-with-ash/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Code-with-ash/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Code-with-ash/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Code-with-ash/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Code-with-ash/DSA/tree/master/0127-word-ladder) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Code-with-ash/DSA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Code-with-ash/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Code-with-ash/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Code-with-ash/DSA/tree/master/0347-top-k-frequent-elements) |
