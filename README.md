@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Code-with-ash/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Code-with-ash/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Code-with-ash/DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Code-with-ash/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Code-with-ash/DSA/tree/master/0120-triangle) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Code-with-ash/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0099-recover-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Code-with-ash/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/Code-with-ash/DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Code-with-ash/DSA/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Code-with-ash/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Code-with-ash/DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Code-with-ash/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Code-with-ash/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Code-with-ash/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Code-with-ash/DSA/tree/master/0542-01-matrix) |
