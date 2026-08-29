@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Code-with-ash/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Code-with-ash/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Code-with-ash/DSA/tree/master/0072-edit-distance) |
+| [0093-restore-ip-addresses](https://github.com/Code-with-ash/DSA/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Code-with-ash/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Code-with-ash/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Code-with-ash/DSA/tree/master/0127-word-ladder) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/Code-with-ash/DSA/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/Code-with-ash/DSA/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
