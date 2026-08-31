@@ -5,8 +5,6 @@ public:
         int left = 0;
         int right = 0;
         int n = s.size();
-        if (n == 0)
-            return 0;
         int ans = 0;
         while (right < n) {
             if (st.find(s[right]) == st.end()) {
