@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Code-with-ash/DSA/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/Code-with-ash/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Code-with-ash/DSA/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Code-with-ash/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Code-with-ash/DSA/tree/master/1020-number-of-enclaves) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Code-with-ash/DSA/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Code-with-ash/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Code-with-ash/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Code-with-ash/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Code-with-ash/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Code-with-ash/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-with-ash/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Code-with-ash/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Code-with-ash/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Code-with-ash/DSA/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Code-with-ash/DSA/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/Code-with-ash/DSA/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-with-ash/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Code-with-ash/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Code-with-ash/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Code-with-ash/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/Code-with-ash/DSA/tree/master/0368-largest-divisible-subset) |
+| [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -571,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Code-with-ash/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -626,4 +632,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Code-with-ash/DSA/tree/master/0207-course-schedule) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
