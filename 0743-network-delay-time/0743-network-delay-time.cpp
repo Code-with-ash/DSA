@@ -1,20 +1,20 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<vector<pair<int,int>>> adj(n+1);
+        vector<vector<pair<int,int>>> adj(n+1); 
         for(int i = 0; i < times.size(); i++)
-            adj[times[i][0]].push_back({times[i][1], times[i][2]});
+            adj[times[i][0]].push_back({times[i][1], times[i][2]}); // made a matrix 
 
-        vector<int> timetaken(n+1, 1e9);  // Bug 1,4 fixed
+        vector<int> timetaken(n+1, 1e9); 
         timetaken[k] = 0;
 
         priority_queue<pair<int,int>,
                        vector<pair<int,int>>,
-                       greater<pair<int,int>>> pq;  // Bug 2 fixed
-        pq.push({0, k});
+                       greater<pair<int,int>>> pq; 
+        pq.push({0, k}); // distance , node 
 
         while(!pq.empty()){
-            int time    = pq.top().first;   // Bug 3 fixed
+            int time    = pq.top().first;   
             int current = pq.top().second;
             pq.pop();
 
@@ -25,7 +25,7 @@ public:
                     timetaken[dest] = weight + time;
                     pq.push({timetaken[dest], dest});
                 }
-            }
+            } 
         }
 
         int maxtime = 0;
