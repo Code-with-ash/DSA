@@ -645,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Code-with-ash/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
