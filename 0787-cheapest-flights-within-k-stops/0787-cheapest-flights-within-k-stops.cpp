@@ -12,7 +12,7 @@ public:
         vector<int> dist(n, INT_MAX);
         dist[src] = 0;
 
-        queue<pair<int,pair<int,int>>> q;
+        queue<pair<int,pair<int,int>>> q; // stops are increasing one by one 
         q.push({0, {src, 0}});   // {stops, {node, cost}}
 
         while (!q.empty()) {
@@ -22,10 +22,9 @@ public:
             q.pop();
 
             if (stops > k)
-                continue;
+                continue; // unnecessary condition , just skip 
 
             for (auto &[next, wt] : adj[node]) {
-
                 if (cost + wt < dist[next]) {
                     dist[next] = cost + wt;
                     q.push({stops + 1, {next, cost + wt}});
