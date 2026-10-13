@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Code-with-ash/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Code-with-ash/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Code-with-ash/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Code-with-ash/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Code-with-ash/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Code-with-ash/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Code-with-ash/DSA/tree/master/0049-group-anagrams) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Code-with-ash/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Code-with-ash/DSA/tree/master/0040-combination-sum-ii) |
 | [0093-restore-ip-addresses](https://github.com/Code-with-ash/DSA/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/Code-with-ash/DSA/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
