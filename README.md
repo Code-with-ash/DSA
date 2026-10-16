@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Code-with-ash/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Code-with-ash/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Code-with-ash/DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Code-with-ash/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Code-with-ash/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Code-with-ash/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Code-with-ash/DSA/tree/master/0542-01-matrix) |
