@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Code-with-ash/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Code-with-ash/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Code-with-ash/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Code-with-ash/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Code-with-ash/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Code-with-ash/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Code-with-ash/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-with-ash/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Code-with-ash/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Code-with-ash/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Code-with-ash/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Code-with-ash/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Code-with-ash/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Code-with-ash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Code-with-ash/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Code-with-ash/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/Code-with-ash/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Code-with-ash/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Code-with-ash/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/Code-with-ash/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Code-with-ash/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Code-with-ash/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Code-with-ash/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Code-with-ash/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Code-with-ash/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Code-with-ash/DSA/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Code-with-ash/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Code-with-ash/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Code-with-ash/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Code-with-ash/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Code-with-ash/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Code-with-ash/DSA/tree/master/0368-largest-divisible-subset) |
 | [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
@@ -619,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Code-with-ash/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Code-with-ash/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
