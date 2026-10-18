@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Code-with-ash/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Code-with-ash/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Code-with-ash/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Code-with-ash/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Code-with-ash/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Code-with-ash/DSA/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Code-with-ash/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Code-with-ash/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -682,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Code-with-ash/DSA/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Code-with-ash/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
