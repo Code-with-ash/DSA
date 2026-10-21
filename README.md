@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Code-with-ash/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Code-with-ash/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Code-with-ash/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Code-with-ash/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Code-with-ash/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Code-with-ash/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Code-with-ash/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Code-with-ash/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Code-with-ash/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Code-with-ash/DSA/tree/master/0127-word-ladder) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Code-with-ash/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Code-with-ash/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Code-with-ash/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Code-with-ash/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Code-with-ash/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Code-with-ash/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Code-with-ash/DSA/tree/master/0200-number-of-islands) |
