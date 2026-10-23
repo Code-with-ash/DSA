@@ -12,7 +12,7 @@ public:
             int right = n - 1;
             while (left < right) {
                 int sum = nums[i] + nums[left] + nums[right];
-                if (sum == 0) {
+                if (sum == 0){
                     ans.push_back({nums[i], nums[left], nums[right]});
                     left++;
                     right--;
@@ -22,14 +22,13 @@ public:
                     // Skip duplicate third elements
                     while (left < right && nums[right] == nums[right + 1])
                         right--;
-                } else if (sum < 0) {
+                }else if (sum < 0) {
                     left++;
-                } else {
+                }else {
                     right--;
                 }
             }
         }
-
         return ans;
     }
 };
