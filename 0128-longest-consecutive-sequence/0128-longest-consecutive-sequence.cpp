@@ -11,15 +11,14 @@ public:
         int longest = 0;
 
         for (int x : st) {
-            if (st.find(x - 1) == st.end()) { // start of a sequence
+            if(st.find(x - 1) == st.end()){ 
+                // start of a sequence as iske pehle ka exist nhi krta 
                 int curr = x;
-                int len = 1;
-
+                int len  = 1;
                 while (st.find(curr + 1) != st.end()) {
                     curr++;
                     len++;
                 }
-
                 longest = max(longest, len);
             }
         }
