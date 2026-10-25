@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Code-with-ash/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Code-with-ash/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Code-with-ash/DSA/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Code-with-ash/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Code-with-ash/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Code-with-ash/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Code-with-ash/DSA/tree/master/0721-accounts-merge) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Code-with-ash/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Code-with-ash/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Code-with-ash/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Code-with-ash/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Code-with-ash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Code-with-ash/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Code-with-ash/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Code-with-ash/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Code-with-ash/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
