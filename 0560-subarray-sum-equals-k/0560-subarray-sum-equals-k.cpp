@@ -8,7 +8,7 @@ public:
         prefixcount[0] = 1; 
         for(int i = 0 ; i< n ; i++){
             sum = sum + nums[i];
-             if (prefixcount.find(sum - k) != prefixcount.end()) {
+              if (prefixcount.find(sum - k) != prefixcount.end()) {
                 count = count +  prefixcount[sum - k];
             }
             prefixcount[sum]++;
