@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Code-with-ash/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Code-with-ash/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Code-with-ash/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2409-count-days-spent-together](https://github.com/Code-with-ash/DSA/tree/master/2409-count-days-spent-together) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Code-with-ash/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Code-with-ash/DSA/tree/master/0368-largest-divisible-subset) |
 | [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [2409-count-days-spent-together](https://github.com/Code-with-ash/DSA/tree/master/2409-count-days-spent-together) |
 ## Recursion
 |  |
 | ------- |
