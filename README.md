@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Code-with-ash/DSA/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Code-with-ash/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Code-with-ash/DSA/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Code-with-ash/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Code-with-ash/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Code-with-ash/DSA/tree/master/1046-last-stone-weight) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Code-with-ash/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/Code-with-ash/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Code-with-ash/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Code-with-ash/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Code-with-ash/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -650,12 +652,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Code-with-ash/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Code-with-ash/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Code-with-ash/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Code-with-ash/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Code-with-ash/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Code-with-ash/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/Code-with-ash/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Code-with-ash/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bracket Sequences
 |  |
