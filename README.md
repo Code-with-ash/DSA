@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Code-with-ash/DSA/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Code-with-ash/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/Code-with-ash/DSA/tree/master/1048-longest-string-chain) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Code-with-ash/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Code-with-ash/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Divide and Conquer
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Code-with-ash/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Code-with-ash/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Code-with-ash/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Code-with-ash/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2409-count-days-spent-together](https://github.com/Code-with-ash/DSA/tree/master/2409-count-days-spent-together) |
 ## Depth-First Search
 |  |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Code-with-ash/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Code-with-ash/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Code-with-ash/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Code-with-ash/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Code-with-ash/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bracket Sequences
 |  |
