@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Code-with-ash/DSA/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Code-with-ash/DSA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Code-with-ash/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Code-with-ash/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-with-ash/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Code-with-ash/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Code-with-ash/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Code-with-ash/DSA/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Code-with-ash/DSA/tree/master/1192-critical-connections-in-a-network) |
+| [1267-count-servers-that-communicate](https://github.com/Code-with-ash/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Code-with-ash/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Code-with-ash/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Code-with-ash/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Code-with-ash/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Code-with-ash/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Code-with-ash/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Code-with-ash/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Code-with-ash/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Code-with-ash/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Code-with-ash/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Code-with-ash/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Code-with-ash/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Code-with-ash/DSA/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Code-with-ash/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Code-with-ash/DSA/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Code-with-ash/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Code-with-ash/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Code-with-ash/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -650,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Code-with-ash/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Code-with-ash/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Code-with-ash/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/Code-with-ash/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Quickselect
 |  |
 | ------- |
