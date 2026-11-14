@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Code-with-ash/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Code-with-ash/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2747-count-zero-request-servers](https://github.com/Code-with-ash/DSA/tree/master/2747-count-zero-request-servers) |
+| [3693-climbing-stairs-ii](https://github.com/Code-with-ash/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Code-with-ash/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Code-with-ash/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Code-with-ash/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/Code-with-ash/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |
